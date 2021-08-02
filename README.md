@@ -5,6 +5,8 @@ run open cmd:
 kajzer.exe kajzer.sys skill.sys
 
 
+There store everything on c:\ drive for free for you :)
+
 Credit to:
 https://github.com/fengjixuchui/gdrv-loader
 pasted from:
